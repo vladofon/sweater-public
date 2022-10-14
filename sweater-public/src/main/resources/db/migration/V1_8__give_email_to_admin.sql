@@ -1,0 +1,1 @@
+update usr set email = 'example@mail.com' where id = 1;

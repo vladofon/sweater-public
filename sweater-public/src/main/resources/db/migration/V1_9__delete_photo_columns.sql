@@ -1,0 +1,2 @@
+ALTER TABLE message DROP COLUMN photo_id CASCADE;
+ALTER TABLE comment DROP COLUMN photo_id CASCADE;
